@@ -2,7 +2,7 @@ const yesButton = document.getElementById("yesButton");
 const noButton = document.getElementById("noButton");
 
 yesButton.addEventListener("click", function() {
-    alert("Salida");
+    alert("¡Gracias por aprobarme!");
 });
 
 noButton.addEventListener("mouseover", function() {
